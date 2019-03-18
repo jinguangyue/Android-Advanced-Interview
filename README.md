@@ -233,6 +233,11 @@ Gradle插件 了解就好 </br>
 [Android 插件化和热修复知识梳理</br>
 ](https://www.jianshu.com/p/704cac3eb13d)</br>
 
+## Flutter 与 RN
+[Flutter原理](https://zhuanlan.zhihu.com/p/36861174)</br>
+[Flutter KO React Native? 让时间去决定吧...](https://juejin.im/post/5b0607c76fb9a07a9b365556)</br>
+[如何评价 React Native？](https://www.zhihu.com/question/27852694)
+
 
 ## 面试常问的点</br>
 除了上面整理的安卓高级技术问题，还有一些面试官喜欢问的点，大家针对准备回答：</br>
