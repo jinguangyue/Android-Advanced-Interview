@@ -9,11 +9,14 @@ Handler Looper Message 关系是什么？</br>
 Messagequeue 的数据结构是什么？为什么要用这个数据结构？</br>
 如何在子线程中创建 Handler?</br>
 Handler post 方法原理？</br>
+ThreadLocal 必备 </br>
 
 [Android消息机制的原理及源码解析](https://www.jianshu.com/p/f10cff5b4c25)  源码角度完整解析 </br>
 [Handler 都没搞懂，拿什么去跳槽啊？](https://juejin.im/post/5c74b64a6fb9a049be5e22fc)  </br>
 [Android Handler 消息机制（解惑篇）](https://juejin.im/entry/57fb3c53128fe100546ea4f2)</br>
 [Android 消息机制](https://blog.csdn.net/guolin_blog/article/details/9991569) **郭神的文章** </br>
+[Android的消息机制之ThreadLocal的工作原理](https://blog.csdn.net/singwhatiwanna/article/details/48350919) **任玉刚的文章** </br>
+
 
 ## Activity 相关</br>
 
