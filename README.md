@@ -172,6 +172,12 @@ LruCache使用极其原理</br>
 [性能优化最佳实践](https://juejin.im/post/5b50b017f265da0f7b2f649c)</br>
 [知乎高赞文章](https://zhuanlan.zhihu.com/p/30691789)</br>
 
+
+## Android 性能监控</br>
+[内存、cpu监控指令](https://juejin.cn/post/7103341017318817828)</br>
+[性能监控采集、主线程卡顿监控](https://juejin.cn/post/6890754507639095303)
+[ASM 无埋点监控](https://mp.weixin.qq.com/s/Xuc034VlR7TqjTaoaSuI2A)</br>
+
 ## Android MVC、MVP、MVVM</br>
 好几种我该选择哪个？优劣点</br>
 
@@ -241,6 +247,10 @@ Gradle插件 了解就好 </br>
 [Flutter原理](https://zhuanlan.zhihu.com/p/36861174)</br>
 [Flutter KO React Native? 让时间去决定吧...](https://juejin.im/post/5b0607c76fb9a07a9b365556)</br>
 [如何评价 React Native？](https://www.zhihu.com/question/27852694)
+
+## Kotlin 内联
+[Kotlin-inline, noinline, crossinline关键字解析](https://blog.csdn.net/baidu_39589150/article/details/110920816)</br>
+
 
 
 ## 面试常问的点</br>
