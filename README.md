@@ -145,6 +145,7 @@ AMS,WMS,PMS 创建过程</br>
 [OOM 概念以及安卓内存管理机制](http://hukai.me/android-performance-oom/)</br>
 [内存泄漏的可能性](https://www.jianshu.com/p/ac00e370f83d)</br>
 [防止内存泄漏的方法](https://www.jianshu.com/p/c5ac51d804fa)</br>
+[LeakCanary原理从0到1](https://juejin.cn/post/6936452012058312740)</br>
 
 
 ## Android 屏幕适配</br>
