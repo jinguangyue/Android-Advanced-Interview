@@ -185,6 +185,11 @@ LruCache使用极其原理</br>
 [性能监控采集、主线程卡顿监控](https://juejin.cn/post/6890754507639095303)
 [ASM 无埋点监控](https://mp.weixin.qq.com/s/Xuc034VlR7TqjTaoaSuI2A)</br>
 
+## Android 包体积优化
+[android给apk瘦身全部技巧总结](https://juejin.cn/post/7022251588374757389)</br>
+![包体积优化](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/c1ba687e-3a30-4ae0-9e9d-25d6c1d48308)
+
+
 ## Android MVC、MVP、MVVM</br>
 好几种我该选择哪个？优劣点</br>
 
