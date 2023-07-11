@@ -130,7 +130,6 @@ AMS,WMS,PMS 创建过程</br>
  如何定位 ANR？</br>
  如何避免 ANR？</br>
  
- [什么是 ANR](https://droidyue.com/blog/2015/07/18/anr-in-android/)</br>
  [如何避免以及分析方法](https://www.jianshu.com/p/388166988cef)</br>
  [Android 性能优化之 ANR 详解](https://juejin.im/post/58e5bd6dda2f60005fea525c)</br>
  [非常详细的ANR监控和定位](https://juejin.cn/post/7171684761327370277)</br>
