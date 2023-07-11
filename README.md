@@ -174,6 +174,11 @@ LruCache使用极其原理</br>
 [性能优化最佳实践](https://juejin.im/post/5b50b017f265da0f7b2f649c)</br>
 [知乎高赞文章](https://zhuanlan.zhihu.com/p/30691789)</br>
 
+## 性能优化-虚拟机调优
+
+底层技术太有意思了
+
+[性能优化-虚拟机调优](https://weishu.me/2016/12/23/dive-into-android-optimize-vm-heap/)</br>
 
 ## Android 性能监控</br>
 [内存、cpu监控指令](https://juejin.cn/post/7103341017318817828)</br>
