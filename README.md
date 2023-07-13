@@ -135,6 +135,8 @@ AMS,WMS,PMS 创建过程</br>
  [非常详细的ANR监控和定位](https://juejin.cn/post/7171684761327370277)</br>
  [字节跳动ANR方案，震撼！](https://mp.weixin.qq.com/s/_Z6GdGRVWq-_JXf5Fs6fsw)</br>
 
+ ![ANR](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/ea6884ea-f24b-4878-a585-dc8fa028f4ff)
+
 ## Android 内存相关</br>
 
 **注意：内存泄漏和内存溢出是 2 个概念**</br>
