@@ -171,7 +171,7 @@ LruCache使用极其原理</br>
 
 我正在看极客时间的Android开发高手课，里面的性能优化文章不错</br>
 
-[抖音 Android 性能优化系列：启动优化实践](https://mp.weixin.qq.com/s/-3uY3aSF67xTzWEJsa7e-A?mode=light)
+[抖音 Android 性能优化系列：启动优化实践](https://mp.weixin.qq.com/s/-3uY3aSF67xTzWEJsa7e-A?mode=light)</br>
 [知乎高赞文章](https://zhuanlan.zhihu.com/p/30691789)</br>
 
 ## 性能优化-虚拟机调优
