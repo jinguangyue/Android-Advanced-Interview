@@ -51,6 +51,7 @@ ServiceConnection里面的回调方法运行在哪个线程？</br>**
 [startService 和 bingService区别](https://www.jianshu.com/p/d870f99b675c) 完整讲解了它们之间得区别</br>
 [进程保活一般套路](https://juejin.im/entry/58acf391ac502e007e9a0a11) 把进程保活手段都讲了一遍</br>
 [关于进程保活你需要知道的一切](https://www.jianshu.com/p/63aafe3c12af) 10万+ 关于进程保活得文章</br>
+[Android面试题：bindService获取代理是同步还是异步](https://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247489181&idx=1&sn=3324c8279e2154284d41fd81d611df29&chksm=97f6a829a081213f33b8a38af286a9bd9d615099d4ff253ff98f7590184abb9d06b37875f1a6&scene=21#wechat_redirect)</br>
 
 ## Android布局优化之ViewStub、include、merge</br>
 
@@ -116,6 +117,8 @@ view 重绘机制</br>
 [多进程通信方式以及带来的问题](http://wuxiaolong.me/2018/02/15/AndroidIPC/)</br>
 [多进程通信方式对比](https://blog.csdn.net/u011240877/article/details/72863432)</br>
 </br>
+
+
 ## Android 高级必备 ：AMS,WMS,PMS</br>
 这部分真的复杂！</br>
 AMS,WMS,PMS 创建过程</br>
@@ -189,6 +192,9 @@ LruCache使用极其原理</br>
 ## Android 包体积优化
 [android给apk瘦身全部技巧总结](https://juejin.cn/post/7022251588374757389)</br>
 ![包体积优化](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/c1ba687e-3a30-4ae0-9e9d-25d6c1d48308)
+
+## Android 静态代理合动态代理
+[静态代理与动态代理的区别和使用场景](https://jesse505.github.io/2018/03/12/2018-03-12-Android-Dynamic-proxy/)</br>
 
 
 ## Android MVC、MVP、MVVM</br>
