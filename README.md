@@ -176,7 +176,9 @@ LruCache使用极其原理</br>
 
 [抖音 Android 性能优化系列：启动优化实践](https://mp.weixin.qq.com/s/-3uY3aSF67xTzWEJsa7e-A?mode=light)</br>
 [知乎高赞文章](https://zhuanlan.zhihu.com/p/30691789)</br>
-![性能优化](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/9b6677c1-a64f-4c65-aa33-1a6eb0ec4cf0)
+[性能优化](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/9b6677c1-a64f-4c65-aa33-1a6eb0ec4cf0)</br>
+[Matrix TraceCanary -- 初恋·卡顿](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649287054&idx=1&sn=40f1b9935c280547926fc5f799c0b9c2&chksm=8334cd0cb443441aad977bd462df6cafcb20ae55bf9d70c99a7b3045178c848a7e75b6e02aa1&mpshare=1&scene=1&srcid=#rd)</br>
+
 
 ## 性能优化-虚拟机调优
 
