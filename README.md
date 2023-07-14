@@ -48,6 +48,7 @@ Service的运行线程（生命周期方法全部在主线程）</br>
 Service启动方式以及如何停止</br>
 ServiceConnection里面的回调方法运行在哪个线程？</br>**
 
+[ServiceConnection里面的回调方法运行在哪个线程](https://www.jianshu.com/p/c043aca3e533)</br>
 [进程保活一般套路](https://juejin.im/entry/58acf391ac502e007e9a0a11) 把进程保活手段都讲了一遍</br>
 [关于进程保活你需要知道的一切](https://www.jianshu.com/p/63aafe3c12af) 10万+ 关于进程保活得文章</br>
 [Android面试题：bindService获取代理是同步还是异步](https://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247489181&idx=1&sn=3324c8279e2154284d41fd81d611df29&chksm=97f6a829a081213f33b8a38af286a9bd9d615099d4ff253ff98f7590184abb9d06b37875f1a6&scene=21#wechat_redirect)</br>
