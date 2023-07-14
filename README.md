@@ -152,7 +152,7 @@ AMS,WMS,PMS 创建过程</br>
 [内存泄漏的可能性](https://www.jianshu.com/p/ac00e370f83d)</br>
 [防止内存泄漏的方法](https://www.jianshu.com/p/c5ac51d804fa)</br>
 [LeakCanary原理从0到1](https://juejin.cn/post/6936452012058312740)</br>
-
+[微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)</br>
 
 ## Android 屏幕适配</br>
 屏幕适配相关名词解析</br>
@@ -195,6 +195,7 @@ LruCache使用极其原理</br>
 
 ## Android 静态代理合动态代理
 [静态代理与动态代理的区别和使用场景](https://jesse505.github.io/2018/03/12/2018-03-12-Android-Dynamic-proxy/)</br>
+[Android 插件化原理学习 —— Hook 机制之动态代理](https://zhaomenghuan.js.org/blog/android-plugin-framework-proxy-hook.html)</br>
 
 
 ## Android MVC、MVP、MVVM</br>
@@ -272,18 +273,6 @@ Gradle插件 了解就好 </br>
 
 ## Kotlin 协程
 [详细介绍协程用法](https://juejin.cn/post/6908271959381901325)</br>
-
-## Android 冷启动优化
-使用冷启动闪屏页（Splash Screen）：在应用程序启动时显示一个简单的闪屏页，以给用户一个启动过程中的反馈，并允许应用程序后台进行一些初始化工作。
-
-缓存数据和资源：使用缓存机制来存储常用的数据和资源，避免每次启动都重新加载。可以使用内存缓存、磁盘缓存或网络缓存等方式。
-
-xml to view 减少xml解析耗时
-
-减少启动 Activity 的依赖库和第三方插件：只加载必要的依赖库和插件，避免加载不必要的资源，以减少启动时间。
-
-线程池
-
 
 
 ## 面试常问的点</br>
