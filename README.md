@@ -199,6 +199,9 @@ LruCache使用极其原理</br>
 [静态代理与动态代理的区别和使用场景](https://jesse505.github.io/2018/03/12/2018-03-12-Android-Dynamic-proxy/)</br>
 [Android 插件化原理学习 —— Hook 机制之动态代理](https://zhaomenghuan.js.org/blog/android-plugin-framework-proxy-hook.html)</br>
 
+## Android依赖注入
+[Hilt和koin](https://github.com/CharonChui/AndroidNote/blob/master/Jetpack/architecture/11.Hilt%E7%AE%80%E4%BB%8B.md)</br>
+
 
 ## Android MVC、MVP、MVVM</br>
 好几种我该选择哪个？优劣点</br>
