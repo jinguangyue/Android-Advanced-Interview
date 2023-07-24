@@ -113,7 +113,6 @@ view 重绘机制</br>
 [AIDL 使用浅析](https://blog.csdn.net/lmj623565791/article/details/38461079)</br>
 [binder 原理解析](https://zhuanlan.zhihu.com/p/35519585) 真的不错</br>
 [binder 最底层解析](https://blog.csdn.net/luoshengyang/article/details/6618363/)  很难理解，我看了几遍还是了解一个大概</br>
-[多进程通信方式以及带来的问题](http://wuxiaolong.me/2018/02/15/AndroidIPC/)</br>
 [多进程通信方式对比](https://blog.csdn.net/u011240877/article/details/72863432)</br>
 </br>
 
