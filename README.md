@@ -124,7 +124,6 @@ AMS,WMS,PMS 创建过程</br>
 [AMS,WMS,PMS全解析](https://www.cnblogs.com/sunkeji/articles/7650482.html)</br>
 [AMS启动流程](https://blog.csdn.net/itachi85/article/details/76405596) </br>
 [WindowManagerService启动过程解析](https://blog.csdn.net/itachi85/article/details/78186741)</br>
-[PMS 启动流程解析](https://blog.csdn.net/lilian0118/article/details/24455019)</br>
  
  ## Android ANR </br>
  为什么会发生 ANR？</br>
