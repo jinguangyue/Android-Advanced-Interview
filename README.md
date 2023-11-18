@@ -191,6 +191,7 @@ LruCache使用极其原理</br>
 [内存、cpu监控指令](https://juejin.cn/post/7103341017318817828)</br>
 [性能监控采集、主线程卡顿监控](https://juejin.cn/post/6890754507639095303)</br>
 [ASM 无埋点监控](https://mp.weixin.qq.com/s/Xuc034VlR7TqjTaoaSuI2A)</br>
+[面试官：如何监测应用的 FPS ？](https://juejin.cn/post/6890407553457963022)</br>
 
 ## Android 包体积优化
 [android给apk瘦身全部技巧总结](https://juejin.cn/post/7022251588374757389)</br>
