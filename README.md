@@ -120,6 +120,8 @@ view 重绘机制</br>
 [多进程通信方式对比](https://blog.csdn.net/u011240877/article/details/72863432)</br>
 </br>
 
+## SurfaceView 和 textureView
+[SurfaceView 与 TextureView 详解](https://juejin.cn/post/7156157715230752782)</br>
 
 ## Android 高级必备 ：AMS,WMS,PMS</br>
 这部分真的复杂！</br>
