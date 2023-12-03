@@ -180,6 +180,7 @@ LruCache使用极其原理</br>
 [知乎高赞文章](https://zhuanlan.zhihu.com/p/30691789)</br>
 [性能优化](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/9b6677c1-a64f-4c65-aa33-1a6eb0ec4cf0)</br>
 [Matrix TraceCanary -- 初恋·卡顿](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649287054&idx=1&sn=40f1b9935c280547926fc5f799c0b9c2&chksm=8334cd0cb443441aad977bd462df6cafcb20ae55bf9d70c99a7b3045178c848a7e75b6e02aa1&mpshare=1&scene=1&srcid=#rd)</br>
+![image](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/075b8d0f-7df9-4558-bd5c-8c4747bef360)
 
 
 ## 性能优化-虚拟机调优
