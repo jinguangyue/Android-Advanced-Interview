@@ -159,10 +159,16 @@ AMS,WMS,PMS 创建过程</br>
 ## OOM文章
 [微信ResourceCanary](https://github.com/Tencent/matrix/wiki/Matrix-Android-ResourceCanary)</br>
 [美团Probe](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)</br>
+![image](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/97aa7435-79b7-4a63-b70d-b9beb0ef17bd)
+
 
 
 ## 内存泄漏原因及解决方案
 ![内存泄漏原因和方案](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/ec0b499a-b80b-4248-a9ee-6abdb1396f29)
+
+## 内存监控
+![内存监控](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/1db20ec8-f61d-4dbd-b432-104d67bef308)
+
 
 
 ## Android 屏幕适配</br>
