@@ -157,7 +157,7 @@ AMS,WMS,PMS 创建过程</br>
 [微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)</br>
 
 ## OOM文章
-[微信ResourceCanary][https://github.com/Tencent/matrix/wiki/Matrix-Android-ResourceCanary]</br>
+[微信ResourceCanary](https://github.com/Tencent/matrix/wiki/Matrix-Android-ResourceCanary)</br>
 [美团Probe](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)</br>
 
 
