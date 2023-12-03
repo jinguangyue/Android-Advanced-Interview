@@ -158,7 +158,7 @@ AMS,WMS,PMS 创建过程</br>
 
 
 ## 内存泄漏原因及解决方案
-![image](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/e93abecf-72ba-44f3-8675-93431b9a0e0c)
+![内存泄漏原因和方案](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/ec0b499a-b80b-4248-a9ee-6abdb1396f29)
 
 
 ## Android 屏幕适配</br>
