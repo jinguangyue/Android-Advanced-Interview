@@ -156,6 +156,10 @@ AMS,WMS,PMS 创建过程</br>
 [LeakCanary原理从0到1](https://juejin.cn/post/6936452012058312740)</br>
 [微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)</br>
 
+## OOM文章
+[微信ResourceCanary][https://github.com/Tencent/matrix/wiki/Matrix-Android-ResourceCanary]</br>
+[美团Probe](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)</br>
+
 
 ## 内存泄漏原因及解决方案
 ![内存泄漏原因和方案](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/ec0b499a-b80b-4248-a9ee-6abdb1396f29)
