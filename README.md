@@ -156,6 +156,11 @@ AMS,WMS,PMS 创建过程</br>
 [LeakCanary原理从0到1](https://juejin.cn/post/6936452012058312740)</br>
 [微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)</br>
 
+
+## 内存泄漏原因及解决方案
+![image](https://github.com/jinguangyue/Android-Advanced-Interview/assets/8803674/e93abecf-72ba-44f3-8675-93431b9a0e0c)
+
+
 ## Android 屏幕适配</br>
 屏幕适配相关名词解析</br>
 现在流行的屏幕适配方式</br>
