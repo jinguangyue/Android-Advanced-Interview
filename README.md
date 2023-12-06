@@ -274,6 +274,7 @@ Gradle插件 了解就好 </br>
 组件之间如何通信？</br>
 组件之间如何跳转？</br>
 
+[插件化和组件化的区别](https://juejin.cn/post/6953600472045486111)</br>
 [Android 插件化和热修复知识梳理](https://www.jianshu.com/p/704cac3eb13d)</br>
 [为什么要用组件化](https://blog.csdn.net/guiying712/article/details/55213884)</br>
 [1、Android彻底组件化方案实践](https://www.jianshu.com/p/1b1d77f58e84)</br>
