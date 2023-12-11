@@ -266,6 +266,8 @@ Gradle插件 了解就好 </br>
 [Android图片加载框架最全解析（七），实现带进度的Glide图片加载功能](http://blog.csdn.net/guolin_blog/article/details/78357251)</br>
 [Android图片加载框架最全解析（八），带你全面了解Glide 4的用法](http://blog.csdn.net/guolin_blog/article/details/78582548)</br>
 
+[Glide面试相关](https://juejin.cn/post/6844903986412126216)</br>
+
 
 ## Android 组件化与插件化</br>
 业务大了代码多了会用到。</br>
