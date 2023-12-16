@@ -10,3 +10,6 @@
 
 ## java 多线程相关
 [史上最全 Java 多线程面试题及答案](https://mp.weixin.qq.com/s/0CI9od4DIxRrmOGFJw0SuQ)</br>
+
+## 字节码讲解
+[字节码在虚拟机的执行逻辑](https://www.51cto.com/article/705265.html)</br>
