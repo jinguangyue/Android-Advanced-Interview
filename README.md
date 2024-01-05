@@ -81,6 +81,10 @@ AsyncTask随着安卓版本的变迁</br>
 [AsyncTask完全解析](https://blog.csdn.net/guolin_blog/article/details/11711405) **郭神的文章 一篇足够 从使用到源码**</br>
 [串行还是并行](https://blog.csdn.net/singwhatiwanna/article/details/17596225) </br>
 
+## SharePrefrence
+[从源码看SharedPreferences和干掉ANR](https://juejin.cn/post/7139342752080199693)</br>
+[今日头条 ANR 优化实践系列 - 告别 SharedPreference 等待](https://www.toutiao.com/article/6961956479972737569/?app=news_article&timestamp=1704418346&use_new_style=1&req_id=2024010509322556081B23AADEC551994B&group_id=6961956479972737569&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=d887212a-a6dc-4ce6-aa7b-4e38c18eea25&source=m_redirect&wid=1704429586516)</br>
+
 
 ## Android  事件分发机制</br>
 onTouch和onTouchEvent区别，调用顺序</br>
